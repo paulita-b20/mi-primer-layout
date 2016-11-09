@@ -1,1 +1,127 @@
 /* Ingresa tu css aqui */
+.marco{
+ 	width: 900px;
+ 	margin: 4% auto;
+ }
+ .margin{
+ 	margin-top: 4%;
+ 	margin-bottom: 4%;
+ }
+ .nueve{
+ 	width: 900px;
+ }
+ .inline{
+ 	display: inline-block;
+     
+ }
+ .right{
+ 	border-right: 2px solid black;
+ 	padding: 0% 3%;
+     
+
+    
+ }
+ .menu{
+ 	width: 100%;
+ 
+     border-top: 2px solid;
+ 	border-bottom: 2px solid;
+ 	text-align: center;
+     
+ }
+ .padingleft{
+ 	padding-left: 3%;
+ }
+ .centrado{
+ 	width: 70%;
+ 	margin: 4% auto;
+ }
+ /* nuestras coders */
+ .hrcoders{
+ 	border: 1px solid black;
+ 	margin-right: 92%;
+ }
+ .hrtexto{
+ 	height: 4px;
+ 	background:#777777;
+ 	margin-left: 45%;
+ 	margin-right: 45%;
+ }
+  
+ .imgcoders{
+ 	width: 250px;
+ 	height: 250px;
+ 	padding: 20px;
+     opacity: .7;
+ 	position: relative;
+ }
+ .nombres{
+ 	position:absolute;
+    font-size:initial; 
+    z-index:6;
+ 	color: white;
+    right:25%;
+     
+ }
+ .apellidos{
+ 	right: 25%;
+ 	bottom: 120px;
+ }
+ .apellidos{
+ 	right: 50%;
+ 	bottom: 1550px;
+ }
+ .apellidos{
+ 	right: 60%;
+ 	bottom: 1847px;	
+ }
+ .apellidos{
+ 	right: 80%;
+ 	bottom: 1550px;
+}
+ .apellidos{
+ 	right: 80%;
+ 	bottom: 1847px;	
+ }
+/* portafolio */
+ .center{
+ 	text-align: center;
+ }
+ .html{
+ 	width: 700px;
+ }
+ .css{
+ 	width: 500px;
+ }
+ .javascript{
+ 	width: 300px;
+ }
+ .gris{
+ background-color: #999999;
+ 	margin: 2%;
+ 	padding: 3%;
+ 	height: 25px;
+ }
+ .borde{
+ 	border: 1px solid;
+ }
+ .redonda{
+ 	width: 250px;
+ 	height: 250px;
+ 	border-radius: 100px;
+ 	overflow: hidden;
+ 	position: relative;
+ 	left: 37%;
+ }
+ .peque{
+ 	width: 25%;
+ 	height: 15%;
+ 	padding: 4%;
+ }
+ .pading{
+ 	padding: 2%;
+ }
+ * a{
+ 	text-decoration: none;
+ 	color: black;
+ } 
