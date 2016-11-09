@@ -12,8 +12,18 @@
  }
  .inline{
  	display: inline-block;
+     position: relative;
      
  }
+.inline .nombres 
+{
+    position:absolute;
+    font-size:initial; 
+    z-index:6;
+ 	color: white;
+    right:0;
+    bottom:0;
+}
  .right{
  	border-right: 2px solid black;
  	padding: 0% 3%;
@@ -50,39 +60,11 @@
   
  .imgcoders{
  	width: 250px;
- 	height: 250px;
- 	padding: 20px;
      opacity: .7;
  	position: relative;
  }
- .nombres{
- 	position:absolute;
-    font-size:initial; 
-    z-index:6;
- 	color: white;
-    right:25%;
-     
- }
- .apellidos{
- 	right: 25%;
- 	bottom: 120px;
- }
- .apellidos{
- 	right: 50%;
- 	bottom: 1550px;
- }
- .apellidos{
- 	right: 60%;
- 	bottom: 1847px;	
- }
- .apellidos{
- 	right: 80%;
- 	bottom: 1550px;
-}
- .apellidos{
- 	right: 80%;
- 	bottom: 1847px;	
- }
+
+ 
 /* portafolio */
  .center{
  	text-align: center;
@@ -108,7 +90,7 @@
  .redonda{
  	width: 250px;
  	height: 250px;
- 	border-radius: 100px;
+ 	border-radius: 300px;
  	overflow: hidden;
  	position: relative;
  	left: 37%;
